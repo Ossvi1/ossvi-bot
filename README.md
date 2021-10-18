@@ -20,9 +20,8 @@ ShanBot Bot Para Whatsapp by shanduy
 </p>
 
 <p align="center">
-<a href="https://github.com/shanduy"><img title="Creador" src="https://img.shields.io/badge/Author-Shanduy-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ossvi1"><img title="Creador" src="https://img.shields.io/badge/Author-Shanduy-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
-
 
 <p align="center">
 Mis Redes Sociales Y Mi Whatsapp Para Resolver Tus Problemas
