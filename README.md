@@ -44,18 +44,16 @@ Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux
 ```bash
 > CTRL y aplastas Z en tu teclado
 ```
-[4:59 p. m., 18/10/2021] 𓃵𝓞𝓼𝔀𝓪𝓵𝓭𝓸  𝓜𝓪𝓻𝓽𝓲𝓷𝓮𝔃𓃵: ```
-[5:04 p. m., 18/10/2021] 𓃵𝓞𝓼𝔀𝓪𝓵𝓭𝓸  𝓜𝓪𝓻𝓽𝓲𝓷𝓮𝔃𓃵: Una vez hecho eso vas a colorcar en termux los siguientes comandos
+Te dara un nuevo codigo y lo escaneas con tu numero del bot y ya estara la actualizacion de tu bot
+
+𓃵𝓞𝓼𝔀𝓪𝓵𝓭𝓸  𝓜𝓪𝓻𝓽𝓲𝓷𝓮𝔃𓃵
+
+Una vez hecho esto vas a colocar los siguientes comandos
 
 bash
 > git clone https://github.com/Ossvi1/ossvi-bot
 > cd ShanBot
 > npm start
-
-Te dara un nuevo codigo y lo escaneas con tu numero del bot y ya estara la actualizacion de tu bot
-
-
-
 
 
 
@@ -140,8 +138,8 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 
 ## Y Listo Ya Estara En Funcionamiento. Espero Te Alla Ayudado :)
 
+## Saluditos jiji
 
-
-## by shanduy
+## by Ossvi1
 
 
